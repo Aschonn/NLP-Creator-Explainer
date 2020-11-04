@@ -30,7 +30,7 @@ This project goes through each individual step to create a model that is able to
 
     1) Enter Info and Click Download
 
-    2) While Downloading Create a folder called 'dataset'
+    2) While Downloading Create a folder called 'dataset' in project directory
 
     3) Put Individual Yelp datasets inside dataset folder
 
