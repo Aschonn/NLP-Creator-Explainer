@@ -1,25 +1,30 @@
-# motivation
+## NLP (Natural Language Processing)
 
-In my adventure to learn machine learning, I wanted to create a model that is able to determine/predict a yelp review rating from just text alone. In this process, I tried to make it as simple as possible to run. I created 4 different python files with separate tasks and meanings:
+This project goes through each individual step to create a model that is able to predict a customer's satisfaction review rating from using text alone.
 
-1) filter_data.py
-2) create_model.py
-3) predict_rating.py
-4) lime_query_explanation.py
+## Components:
+1) Filter Data Script
+2) Model Creation Script
+3) Predict Rating Script
+4) Explanation Script
 
-Run all these in order and you'll end up with a HTML page that shows the impact each word in a phase effects the models rating interpretation.
+## Dependencies:
+- Python
+- textFast
+- NumPy
+- LIME
 
-How To Set It Up:
+## How To Set It Up:
 
 <br>
 
-## Import Github Repo:
+### Import Github Repo:
 
     git clone https://github.com/Aschonn/ML-Predict-Ratings.git
 
 <br>
 
-## import dataset:
+### import dataset:
 
     https://www.yelp.com/dataset/download
 
@@ -30,7 +35,9 @@ How To Set It Up:
     3) Put Individual Yelp datasets inside dataset folder
 
 
-## Create Virtualenv
+### Create Virtualenv:
+
+<br>
 
 #### install python3 and pip3 
 
@@ -56,7 +63,7 @@ How To Set It Up:
     # pip3 install fasttext pathlib lime
 
 
-## How To Run
+## How To Run:
 
 On The Command Line Enter:
 
