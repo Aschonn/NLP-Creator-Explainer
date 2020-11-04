@@ -60,7 +60,7 @@ This project goes through each individual step to create a model that is able to
 
 #### Install Dependencies:
 
-    # pip3 install fasttext pathlib lime
+    # pip3 install fasttext pathlib lime numpy
 
 
 ## How To Run:
