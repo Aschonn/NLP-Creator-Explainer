@@ -81,3 +81,10 @@ On The Command Line Enter:
 4) Explains exactly what is happening. It displays an HTML page GUI that shows which words most greatly effected the models rating interpretation.
 
     https://lime-ml.readthedocs.io/en/latest/lime.html#module-lime.explanation
+
+<br>
+
+
+## VIEW HTML DOCUMENT:
+
+I used live server extension in visual studio code, but feel free to use any other HTML displayer
